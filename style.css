@@ -1,0 +1,141 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+     /* outline: 1px solid red;  */
+     
+}
+
+nav {
+    overflow: hidden;
+}
+
+.les {
+    position: relative;
+    left: 30px;
+    top: 20px;
+}
+
+.btn {
+    color: white;
+    background-color: #FC004A;
+    font-size: 15px;
+    padding: 12px 50px 12px 50px;
+    border: none;
+    border-radius: 5px;
+    position: relative;
+    left: 90px;
+    top: 10px;
+    cursor: pointer;
+}
+
+.ota {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 40px;
+    position: relative;
+    top: -15px;
+    left: 410px;
+
+}
+
+.ota a {
+    font-size: 18px;
+    color: black;
+
+
+}
+
+.burger {
+    width: 1476px;
+    height: 494px;
+    display: block;
+    margin: auto;
+    position: relative;
+    top: 50px;
+    border-radius: 5px;
+}
+
+h1 {
+    color: black;
+    font-size: 35px;
+    position: relative;
+    top: 150px;
+    left: 30px;
+    width: 200px;
+}
+
+.karta {
+    width: 260px;
+    height: 430px;
+    padding: 12px;
+    position: relative;
+    font-family: Arial, sans-serif;
+    box-shadow:5px 5px 5px 5px gray;
+}
+
+.karta img {
+    width: 100%;
+    height: 250px;
+    object-fit: contain;
+}
+
+.karta h3 {
+    font-size: 20px;
+    margin-top: 24px;
+}
+
+.narx {
+    color: #ff0050;
+    font-size: 21px;
+    margin-top: 15px;
+}
+
+.qoshish {
+    width: 45px;
+    height: 45px;
+    background-color: #ff0050;
+    color: white;
+    font-size: 40px;
+    border: none;
+    border-radius: 13px;
+    position: absolute;
+    right: 12px;
+    bottom: 12px;
+    cursor: pointer;
+}
+.qayr{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 110px;
+    position: relative;
+    top: 200px;
+}
+.qayro{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 110px;
+    position: relative;
+    top: 200px;
+}
+.qayroq{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 110px;
+    position: relative;
+    top: 200px;
+}
+.bce{
+    position: relative;
+    top: 320px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 300px;
+}
